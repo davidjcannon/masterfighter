@@ -1,0 +1,73 @@
+1.3.0 Alpha [Started 11/25/2017]
+Cool New Features:
++ Added tutorial/backstory
++ Added (3) New Classes (Snowman, Knight, Wizard)
++ Added new items (Ice, Shatter, Wooden Bat)
++ Added pets (5, VERY RARE)
++ Added SNAP (Counter to losing streak)
+Other:
++ Added more reset options
++ Added 'Random' Gamemode to randomize who you fight rather then having it be progressive, if that's what you want
++ Added 'Quit/Exit' option in games, you  will no longer be punished for closing out of the game, instead it'll just add 1 defeat to your stats
++ Made it possible to quickly search for items in shop by just saying their name while in shop
+* Fixed a bug where the CPU could attack RIGHT AFTER being unstunned (Unfair), and other more minor bugs
+* Fixed a bug where Marax boss fight could happen at any level
+* Changing from saving from on to off will no longer reset the game
+Reworks:
+* Nerfed Bezerker (Young), Nerfed Brute (Shows up later), reworked Hitman
+* Slightly nerfed natural stuns (Sweep/back stun just as often but for a slightly shorter period of time)
+* Buffed the stick (slightly more dmg & cheaper), the bottle (cheaper), and "Champion's Notebook" (Now gives 270% more than before for $20)
+* Buffed all heals
+* Nerfed Taser (costs more + at level 8 opponent's will more commonly have a small amount of stun resistance)
+* Reduced unconscious defeat timer from 20 seconds to 5, level 20 will now instantly regain consciousness
+* You can now hold up to $20 until money drops are nerfed (Previously $12)
+* Reworked items prices (Grenade)
+
+* Game now has support to be fun up to level 10, after that nothing new will happen
+
+1.2.1 Alpha [HOTFIX: 12/7/2017]
+* Fixed Stuns
+* Fixed MAJOR Bleeding Issue
+* Fixed MANY Sound Files (Ex. gunshot.mp3)
+* Screen now defaults to 1080p
+- Removed Hitman Soundtrack (Reason?: His battles don't even last long enough for the song to really kick in)
+
+1.2.0 Alpha [Started 9/22/2017 : Ended 11/22/2017]
++ Added Money
++ Added Shop
++ Added Items
++ Added Health Level 6 & changed all the values of health levels
++ Added Damage Indicators
++ Added (6) New Classes (Vampire, Werewolf, Thief, Young Bezerker, Fighter, Mage)
++ Added Critical (The ability to possibly do 2x damage on your opponent)
++ Added Bleeding
++ Added Stuns
+* Reduced 30 Second KO Time to 20 Seconds
+* Revamped XP System, every class gives different XP and different moves give more XP
+* Revamped point system so now talents get more expensive as you invest in them
+* Being defeated will now cause the screen to turn red and allows you to look at how you died
+* The CPU will now notice repeated moves quicker
+* Screen option will now shrink the window
+* Changed recovery system to speed up by 2 seconds every 4 levels
+* Compressed Sounds Files
+* Fixed issue with turning off saved data
+* Mute is now enabled if saved-data is disabled
+
+* So far the game has support to be fun up to level 9, after that nothing new happens, everything remains the same
+
+1.1.0 Alpha [Started 12/23/2016 : Ended 8/29/2017]
++ Added Bosses (1)
++ Added More Classes
++ Added Anti-Cheat
++ Added New XP System
++ Added Skip KO Protection (The game will know if you close the game to try and skip being knocked out)
++ Added Sounds
++ Added Crash-Notice at Loading Screen
++ Added 1080p Support
+* Improved CPU AI
+* Improved Health Per-Level
+* Rewrote Attack System Code
+* Renamed Tutorial to "Game Wiki"
+
+1.0.0 Alpha (Unreleased)
+Created

@@ -1,0 +1,1 @@
+To run the game go to bin/masterfighter.bat

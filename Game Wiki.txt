@@ -1,0 +1,105 @@
+==========================================================================================
+Start: (Last Updated V. 1.3.0 [ALPHA])
+==========================================================================================
+
+Not Starting: If the game is not starting for some reason simply open up the folder "data" and click on "masterfighter" then the game should start fine.
+
+Saved-Data/Stats: There's 3 options for saved-data, "Auto" which tests to see if saved-data can be turned on or not, "On" which is simple it just tries to turn it on regardless of the auto test, "Off" which turns it off regardless of the test which would make no sense to do but whatever it's there
+
+Sounds: Sounds will only play you and the computer's first attack sound. Other sounds won't be heard. Sounds can be muted in the options menu.
+
+==========================================================================================
+Game: (Last Updated V. 1.3.0 [ALPHA])
+==========================================================================================
+
+Main Menu: While in the main menu you can choose from a list of options listed in the menu.
+
+Game Mode: Game Mode can only be changed in the settings menu, game mode is what decides how you're matched against opponents, at the moment you can either set it to 'Random' or 'Progressive'. By default it's set to 'Progressive' as it ensures you the most equal fights and removes easy but low XP targets, setting it to 'Random' however will put you up against anyone you're strong enough to face no matter how weak they may be compared to you regardless of the reduced XP
+
+Winning: When you win a fight you'll gain a decent amount of XP (depending on your level) and some money depending on how many rounds you took and how much money you already have.
+
+Tied: A tie counts as a win and a loss and gives half of your normal XP up until level 10, then it'll start to give a fourth of your normal XP. Your money you earned from the game will also be halved.
+
+Losing: When you lose a fight you'll gain a small amount of XP (depending on your level). You can only earn up to $1 if you lose.
+
+Levels: Levels are more just a way of showing off and to give a sense of achievement and to give the game a sense of where you are and what to put you up against. Everytime you level up you'll be given a skill point. The max level at the moment is 20.
+
+XP: XP is used for leveling up (obviously) and it progressively gets A LOT harder to gain the more you level up to the point where at level 20 you can no longer gain XP. When you level up your XP will be cut in half. XP is given to you depending on what you're fighting, how hard it is, and what level you are, XP is also given randomly throughout the battle depending on what move you use; Sweep will always give the most XP, then back attack, chest, and finally face gives the least XP.
+
+Skill Points: Skill points are used to level up your damage level, speed level, and health level and can be obtained only by leveling up.
+
+Money: Currently money can only be gained randomly, every round during a game there will be a 25% chance you'll get some money, this lowers the more money you get though. The money you get ranges depending on your level, by default you'll get $1, at level 7 you can get $1-2, at level 13 it's $1-3, and at level 16 it's $1-4.
+
+CPU: The CPU is the computer. It doesn't just choose its moves randomly. If the CPU notices you doing the same thing to it (like repeatedly punching it in the face) it'll progressively more and more wanna counter you from doing that or even activate a special ability! (Depending on what you're fighting)
+
+Blocking: Blocking is more like countering and when you pull off a successful block it'll do 2 times what it would have done to you PLUS even more depending on your damage level!
+
+Damage Level: This is the math for damage level: DMG+((DMG/2)*(DMGLEVEL-1)), sorry if it's confusing but I don't know how to explain that in a simple way. Also the max damage level is 4.
+
+Speed Level: Speed allows you to do multiple attacks in one turn and requires 2 points to learn because it's a very powerful thing to learn. You can learn speed 2 at level 5, speed 3 hasn't been added at the moment for balancing reasons.
+
+Health Level: Each level gives you a different amount of health; Lvl 1 = 100 Health, Lvl 2 = 125 health, Lvl 3 = 175 Health, Lvl 4 = 225 Health, Lvl 5 = 275, Lvl 6 = 320 Health
+
+Critical: As of 1.2.0 [ALPHA] you can crit on opponents, by levels 1-3 your critical will roughly be 1.45%. But at level 4 you'll receive a crit boost that'll raise your critical to 2.4% then by level 8 you receive your last crit boost that'll raise your crit to 4.5% and you'll gain roughly 0.45% per level from then on. Be warned though, your opponents can also crit and most of the time they have a higher percentage than you.
+
+Stuns: You and your opponent can stun each other, a sweep has a 5% chance to stun, and a successful back attack has a 10% chance, how stuns work is there's an original stun range from 0-100 if the range is 0 then there's no way you can be unstunned that round; this is called being stunned for 0%, if it's 100 you'll definitely be unstunned and this would be called getting stunned for 100%, get it? This number increases by 6% per-round. This can also be altered by something called "Stun Resist" which allows that original stun range to be raised, only opponents have this ability though so you'll just have to get used to that.
+
+Bleeding: Bleeding decreases your health by how much you're bleeding for, there's a 50% chance your bleeding will reduce by 1 per-turn. Bleeding can't be resisted as of 1.3.0 [ALPHA] so it's very helpful against higher resistance opponents.
+
+SNAP: On a loss streak? If your opponent isn't a boss you can snap at them and gain a giant advantage!
+
+Pets: Pets give small advantages and are very rare, there's less than a 1% chance per-win, that you'll get one, starting AFTER level 5.
+
+==========================================================================================
+CPU Classes: (Last Updated V. 1.3.0 [ALPHA])
+==========================================================================================
+
+CPU Classes (READ): CPU Classes are different skill sets that the CPU can use to try and beat you, different classes have different health levels, damage levels, and speed levels, and might even have special attacks for them! CPU Classes with a faster speed then you are smart and will punch you in the face EVERY ROUND and you can't block it cause you're too slow! Making faster opponents pretty hard to beat, although the game will avoid putting you up against opponents that are faster than you most of the time so it's not a huge worry.
+
+Normal Class: The normal class is just your average joe that has level 1 everything and is one of the weakest classes. Normal class will only spawn from level 1-4.
+
+Weakling Class: The weakling class doesn't like to fight much and is the weakest class in the game due to the fact that the weakling only has 80 health and is level 1 in everything. Weaklings will only appear between level 1-2.
+
+Speedy Class: Speedy class will start showing up at level 6 or whenever you get speed 2, the Speedy Class has speed 2 so if you don't have speed 2 the speedy class will punch you in the face EVERY ROUND and you can't block it cause you're too slow! So be sure to keep track of what your speed is!
+
+Fighter Class: The fighter class is an actual fighter that knows a small bit of fighting, he has 150 health and level one in everything else. The fighter class will start to appear around level 3.
+
+Tank Class: Tank class has level 4 health, giving the tank class 200 health and will start appearing at level 4. 
+
+Bezerker (Young) Class: The young bezerker class will start spawning at level 3 and has 90 health and has damage level 2 so it can pack a small punch.
+
+Bezerker Class: The bezerker class has level 3 damage, this allows bezerker to do double the default damage, so be careful against this class! It'll start to appear around level 4.
+
+Assassin Class: The Assassin class has 125 HP, damage level 2, and speed level 2, and will start to appear after you reach level 5.
+
+Brute Class: The Brute class has 250 HP, and damage level 3, it'll start to appear at earliest level 7 but you'll most likely bump into this class a bit later in the game..
+
+Knight Class: The Knight class is a lot more simple then the other classes, it has 0 special abilities, and it'll start to appear around level 5-7, it has 120 HP, 26% resistance, 9% crit, speed 1, damage level 2, and a weapon weapon it'll use that has +4 DMG in all areas, even though it's rather simple don't mistaken the Knight as easy! Its sword has a bleeding chance to it to give him a slight edge!
+
+Hitman Class: Hitman class has 125 HP, and damage level 3, and it'll start to appear after you reach level 8, and at level 11 he'll improve upon his skills and become even stronger! Hitman Class has a special ability called "Perfect" that allows the hitman to speed up to speed 3 and change their attack to counter yours. Another thing the hitman will do is shoot you, getting shot will result in losing 10 HP and it'll cancel your 2nd and 3rd attack, another way this can be triggered is if you use the same attack on your 2nd or 3rd (using speed 2 or 3) too much.
+
+Mage Class: Mage class has 120 HP and at earliest will start to show up around level 5. This class has 2 special moves; fireball and lightning. Fireball does 12 DMG and doubles once his health hits 30% or lower. Lightning has a very small chance to do 50 DMG to you, since the Mage class CAN'T BLOCK he'll use this if you use the same attack on him too much so don't try to take advantage of em'!
+
+Wizard Class: Wizard class is very similar to the mage class and has most of the same things so read above for more info ^^. If you've already read that though, the wizard has a higher chance of using his special abilities, has 180 HP, damage level 2, has a slightly higher crit chance, and 1 extra special move; healing. His healing can heal him anywhere from 5-40 HP back but cannot go over his max health. The less health the wizard has the higher the chance they'll use a heal. They also has a special staff item that gives him +5 extra DMG to all his attacks but this can easily be shattered off of him.
+
+Thief Class: The thief class will start to appear around level 8 and has 150 health, speed level 2, and only damage level 1, he gives very little XP but gives some money, at the start of the battle he'll offer you $6 to leave him alone, if you do you'll fight the harder cop class which is highly not recommended until at least level 10. The catch about the thief though is that he'll use items; the first item he'll use is a knife, then he'll switch to a gut knife after losing a bit of health, the gut knife does 10 HP to the chest so be careful about that! Then if he loses even more health he'll get really angry and he'll pull out a gun and start shooting at you! He has a 33% chance of doing this per round and it deals 25 DMG, so good luck!
+
+Level 10+ Classes:
+
+Cop Class: Technically you can fight the cop class at level 8 but it's recommended that you wait till at least level 10; but you only fight the cop class if you accept the thief’s stolen money, he gives slightly more XP, he has health level 3 (175 HP), and only has speed level 1 but don't be fooled he has damage level 5! The cop also has a taser that he'll be more likely to use as his health gets lower, the taser stuns you for 0% meaning you can't block it (Read more about how stuns work above)
+
+Vampire Class: The vampire will begin to appear at level 10 and has 2 forms, bat form and normal form, the normal form heals half the damage he deals to you and has damage level 4, but he only has speed level 1 in this form, bat form has speed 2, damage level 2, and resist you by 50%. He'll mostly transform into it when he's lower on health but there is a chance he'll transform into just cause he feels like it!
+
+Werewolf Class: The werewolf can start to appear around level 10 and has 90 HP, damage level 5, and speed level 2, it's very deadly with an early game crit percentage of 12.5% and a special move that has a 14% chance of going off called "Howl" that'll weaken you a damage level and strengthen him by one, this will happen 100% of the time if you use the same attack on him too much
+
+Snowman Class: Celebrate the holidays with the snowman class! But be careful, he seems to be obsessed with making people bleed! This snowman will start to appear around level 10 and he has 120 HP and damage level 2 with 10% resistance. He also has an icicle and 3 special moves to ensure as much bleeding as possible. His first ability is that if you're faster than him he'll most likely throw an ice cube at you that'll deal 8 DMG, stun you for 30%, and slow you down a speed level for 4 rounds.. His second special ability causes him to shatter your blood that you're bleeding!! So if you're bleeding, he might half it at the cost of shattering it, dealing a lot of damage then it helps!! His third special ability adds +5 bleeding to you and then he'll damage you for whatever you're bleeding for.. Overall he's a pretty rude snowman so you better teach him how to be nice!
+
+==========================================================================================
+Bosses: (Last Updated V. 1.2.0 [ALPHA])
+==========================================================================================
+
+Bosses: Bosses will have the chance to show up after you reach level 7-8, there is a 1% chance that you'll encounter a specific boss while loading into a battle. Bosses give lots of XP upon being defeated.
+
+Marax: Marax is the first and only boss in the game at the moment. Marax has 250 health and has damage level 3. Marax also has a special move called "Breathless" that'll cancel out your speed 2 and 3 attacks and take away 20 HP no matter what, he'll use randomly throughout the battle. Marax will also use breathless if you anger him enough by using the same attack with your 2nd/3rd attack (using speed) too many times. Marax will start to appear around levels 7-8. 
+
+How I Imagine Marax: http://segredosdagoetia.com.br/wp-content/uploads/2016/06/marax-demonio-segredos-goetia-616x829.jpg
